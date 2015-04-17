@@ -580,4 +580,7 @@
     <string name="blacklist_summary_disabled">Désactivée</string>
     <string name="blacklist_summary">Les appels entrants provenant de numéros de téléphone dans la liste noire seront bloqués</string>
 
+    <!-- Permission for notification-bar network toggle -->
+    <string name="perm_change_mobile_network">Changer le mode réseau (2G/3G)</string>
+    <string name="perm_change_mobile_network_desc">Permet à l\'application de changer entre les données 2G et 3G à tout moment. La 3G est plus rapide, mais consomme plus de batterie et peut entraîner des frais supplémentaires.</string>
 </resources>
